@@ -1,0 +1,13 @@
+G:\ZakMcCracken.Net.ios\ZakMcCracken.Net.ios\ZakMcCracken.Net.CS\obj\Debug\ZakMcCracken.Net.CS.csprojResolveAssemblyReference.cache
+G:\ZakMcCracken.Net.ios\ZakMcCracken.Net.ios\ZakMcCracken.Net.CS\bin\Debug\ZakMcCracken.Net.CS.dll.config
+G:\ZakMcCracken.Net.ios\ZakMcCracken.Net.ios\ZakMcCracken.Net.CS\bin\Debug\ZakMcCracken.Net.CS.dll
+G:\ZakMcCracken.Net.ios\ZakMcCracken.Net.ios\ZakMcCracken.Net.CS\bin\Debug\ZakMcCracken.Net.CS.pdb
+G:\ZakMcCracken.Net.ios\ZakMcCracken.Net.ios\ZakMcCracken.Net.CS\bin\Debug\EntityFramework.dll
+G:\ZakMcCracken.Net.ios\ZakMcCracken.Net.ios\ZakMcCracken.Net.CS\bin\Debug\EntityFramework.SqlServer.dll
+G:\ZakMcCracken.Net.ios\ZakMcCracken.Net.ios\ZakMcCracken.Net.CS\bin\Debug\EntityFramework.xml
+G:\ZakMcCracken.Net.ios\ZakMcCracken.Net.ios\ZakMcCracken.Net.CS\bin\Debug\EntityFramework.SqlServer.xml
+G:\ZakMcCracken.Net.ios\ZakMcCracken.Net.ios\ZakMcCracken.Net.CS\bin\Debug\de\EntityFramework.resources.dll
+G:\ZakMcCracken.Net.ios\ZakMcCracken.Net.ios\ZakMcCracken.Net.CS\obj\Debug\ZakMcCracken.Net.CS.dll
+G:\ZakMcCracken.Net.ios\ZakMcCracken.Net.ios\ZakMcCracken.Net.CS\obj\Debug\ZakMcCracken.Net.CS.pdb
+G:\ZakMcCracken.Net.ios\ZakMcCracken.Net.ios\ZakMcCracken.Net.CS\obj\Debug\ZakMcCracken.Net.CS.Migrations.InitialDB.resources
+G:\ZakMcCracken.Net.ios\ZakMcCracken.Net.ios\ZakMcCracken.Net.CS\obj\Debug\ZakMcCracken.Net.CS.csproj.GenerateResource.Cache
